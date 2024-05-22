@@ -17,4 +17,6 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - `index.js`: The JavaScript file that adds functionality to the calculator.
 
 ![WhatsApp Image 2024-05-22 at 18 12 04_ad879d39](https://github.com/jayanthmarupaka/simple-calculator-/assets/95174580/81f469e0-67d4-4feb-aecc-e3e06527c25c)
+![image](https://github.com/jayanthmarupaka/simple-calculator-/assets/95174580/081d6510-1854-48cd-856d-c9f20be0f618)
+
 
