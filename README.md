@@ -16,8 +16,5 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - `style.css`: The CSS file that styles the calculator.
 - `index.js`: The JavaScript file that adds functionality to the calculator.
 
-## How to Use
+![WhatsApp Image 2024-05-22 at 18 12 04_ad879d39](https://github.com/jayanthmarupaka/simple-calculator-/assets/95174580/81f469e0-67d4-4feb-aecc-e3e06527c25c)
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/USERNAME/simple-calculator.git
